@@ -1,1 +1,1 @@
-dasdaasasdas
+console.log('hello world')
